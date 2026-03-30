@@ -1,0 +1,5555 @@
+[
+  {
+    "domain": "jcmobilecigars.com",
+    "final_url": "https://www.jcmobilecigars.com/",
+    "status_code": 404,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-9973ea6ce1df48e2"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "somalidisablesupport.com",
+    "final_url": "https://somalidisablesupport.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://somalidisablesupport.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "yourfamilylines.com",
+    "final_url": "http://yourfamilylines.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: js/jquery.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "szentkristofudvarhaz.hu",
+    "final_url": "https://szentkristofudvarhaz.hu",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: google-analytics.com/analytics.js",
+          "matched pattern: UA-66736636-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "header contains X-Pingback"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://szentkristofudvarhaz.hu/wp-content/themes/szentkristof1/jquery.js?ver=3.9.40"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "disneystore.com",
+    "final_url": "https://www.disneystore.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-aggregate"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "chavchavadze-m2-41-tbilisi.booked.net",
+    "final_url": "https://chavchavadze-m2-41-tbilisi.booked.net",
+    "status_code": 404,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "trs-energycontrol.de",
+    "final_url": "https://www.trs-energycontrol.de/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-bottom"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "xn--kleoghvidevareservice-qfc.dk",
+    "final_url": "https://xn--kleoghvidevareservice-qfc.dk",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-title"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://xn--kleoghvidevareservice-qfc.dk/wp-includes/js/jquery/jquery.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "gogroupauto.com",
+    "final_url": "https://www.gogroupauto.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-container"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /static/dist/v9/media/js/ddc/v1/dist/ddc.jquery.async.each.min.js?r=1774550477000"
+        ]
+      },
+      {
+        "technology": "React",
+        "category": "frontend framework",
+        "confidence": 0.86,
+        "proof": [
+          "HTML contains data-reactroot"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "231selfstorage.com",
+    "final_url": "https://231selfstorage.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-E0YXT93YEH"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "globalrn.com",
+    "final_url": "https://globalrn.com",
+    "status_code": 526,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-tight"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "cytofastmed.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "5starremoval.weebly.com",
+    "final_url": "https://5starremoval.weebly.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-sidebar",
+          "matched pattern: UA-18403538-1"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "coenzwezerijnen.nu",
+    "final_url": "http://coenzwezerijnen.nu",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "gutendorf.ru",
+    "final_url": "https://gutendorf.ru",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-left"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce",
+          "HTML contains wc-ajax"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://gutendorf.ru/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.9.0",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "katesworldtravel.com",
+    "final_url": "https://katesworldtravel.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://katesworldtravel.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "3xd.co.uk",
+    "final_url": "https://www.3xd.co.uk/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.3xd.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "gapconstructionwi.com",
+    "final_url": "https://www.gapconstructionwi.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "imgs.co.jp",
+    "final_url": "https://www.imgs.co.jp/index.html",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-8CXDN77NLM",
+          "matched pattern: UA-154923112-2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /content/dam/imgs/asset/js/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "clotting-guide.online",
+    "final_url": "https://www.clotting-guide.online/de/ueber/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-Guide"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://c0.wp.com/c/6.9.4/wp-includes/js/jquery/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "38inspect.com",
+    "final_url": "https://www.38inspect.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.38inspect.com/wp-includes/js/jquery/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "newbeaverborough.org",
+    "final_url": "https://newbeaverborough.org",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://newbeaverborough.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "largsbaychiropractic.com.au",
+    "final_url": "https://www.largsbaychiropractic.com.au/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-updates"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "rsthealthcare.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "dioxoxigenio.com.br",
+    "final_url": "http://dioxoxigenio.com.br",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: http://dioxoxigenio.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "doringpoort.com",
+    "final_url": "https://doringpoort.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-port"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://doringpoort.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "fsbwyoming.com",
+    "final_url": "https://fsbwyoming.com",
+    "status_code": 403,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "msc-manching.de",
+    "final_url": "https://msc-manching.de",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-bootstrap"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://msc-manching.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.4"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "sgsextremaratio.it",
+    "final_url": "https://sgsextremaratio.it",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-function"
+        ]
+      },
+      {
+        "technology": "Nuxt.js",
+        "category": "frontend framework",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains __NUXT__",
+          "HTML references /_nuxt/ assets"
+        ]
+      },
+      {
+        "technology": "Vue.js",
+        "category": "frontend framework",
+        "confidence": 0.85,
+        "proof": [
+          "HTML contains __NUXT__",
+          "HTML contains Vue-scoped attributes"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "coastwidemechanicalcentralcoast.com.au",
+    "final_url": "https://coastwidemechanicalcentralcoast.com.au",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-bottom"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "amourfinder.com",
+    "final_url": "https://www.amourfinder.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-form"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "lojatatical.com.br",
+    "final_url": "https://www.lojatatical.com.br/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-category"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: fbq("
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "jobresourcecentre.com",
+    "final_url": "https://jobresourcecentre.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://jobresourcecentre.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "ferienwohnung-kastell.de",
+    "final_url": null,
+    "status_code": null,
+    "error": "[Errno -5] No address associated with hostname",
+    "technologies": []
+  },
+  {
+    "domain": "253media.com",
+    "final_url": "https://www.253media.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-YR4FPT0FNS"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=632c860a24501a288ed72e24"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "velvety.eu",
+    "final_url": "https://www.velvety.eu/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-iconlike"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "doortodoororganics.com",
+    "final_url": "https://doortodoororganics.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-bottom"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "kentpropertyrenovations.co.uk",
+    "final_url": "https://kentpropertyrenovations.co.uk",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "fisherinvestments.com",
+    "final_url": "http://fisherinvestments.com",
+    "status_code": 403,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "rionecontrastanga.net",
+    "final_url": "https://rionecontrastanga.net",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-top"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://rionecontrastanga.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "stwannas.com",
+    "final_url": "https://www.stwannas.com/",
+    "status_code": 403,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-left"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "empresasori.com",
+    "final_url": "http://empresasori.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-svg"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce",
+          "HTML contains wc-ajax"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://c0.wp.com/c/6.3.8/wp-includes/js/jquery/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "familybroker.cz",
+    "final_url": "http://familybroker.cz",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "genesisny.net",
+    "final_url": "https://genesisny.net",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: google-analytics.com/analytics.js",
+          "matched pattern: UA-3733984-1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "5w.design",
+    "final_url": "https://5w.design",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://5w.design/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "huberautomotive.com",
+    "final_url": "https://www.huberautomotive.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-top"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /static/dist/v9/media/js/ddc/v1/dist/ddc.jquery.async.each.min.js?r=1774550477000"
+        ]
+      },
+      {
+        "technology": "React",
+        "category": "frontend framework",
+        "confidence": 0.86,
+        "proof": [
+          "HTML contains data-reactroot"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "marien-apotheke-grefrath-app.de",
+    "final_url": "https://www.marien-apotheke-grefrath-app.de",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-lungenkrebs"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "centreconsiliereavort.ro",
+    "final_url": "http://centreconsiliereavort.ro",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: http://centreconsiliereavort.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "infoaboutnetwork.com",
+    "final_url": "https://infoaboutnetwork.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "11853prospecthill.com",
+    "final_url": "https://11853prospecthill.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-top"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "passwordstore.it",
+    "final_url": "https://passwordstore.it",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "avocatalinamanciu.ro",
+    "final_url": "https://avocatalinamanciu.ro",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto",
+          "matched pattern: UA-273560545-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://avocatalinamanciu.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "abcdpinturas.com.br",
+    "final_url": null,
+    "status_code": null,
+    "error": "[Errno -2] Name or service not known",
+    "technologies": []
+  },
+  {
+    "domain": "dssfla.com",
+    "final_url": "https://www.dssfla.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.dssfla.com/wp-includes/js/jquery/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "weducars.co.za",
+    "final_url": "https://weducars.co.za",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce",
+          "HTML contains wc-ajax"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://weducars.co.za/css/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "4stonebuildings.com",
+    "final_url": "https://4stonebuildings.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://4stonebuildings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "maniaupiekszania.pl",
+    "final_url": "https://maniaupiekszania.pl",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://maniaupiekszania.pl/wp-content/plugins/dethemekit-for-elementor/assets/js/jquery-1.12.4-wp.js?ver=6.9.4"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "sprucemeadowsmd.com",
+    "final_url": "https://sprucemeadowsmd.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://sprucemeadowsmd.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "natedea.co.uk",
+    "final_url": "https://www.natedea.co.uk/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-box"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.natedea.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "loizillon.com",
+    "final_url": "https://www.loizillon.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-left"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://cdn.drouot.com/assets?name=cpg/jquery-743584baf8fc09dcd82ba03b2c8d990e.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "haus-muehlenfeld-pommerby.de",
+    "final_url": "https://www.haus-muehlenfeld-pommerby.de/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-only"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://static-cdn.website-editor.net/libs/jquery/2.2.4/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "arenaskolor.se",
+    "final_url": "https://arenaskolor.se",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-043"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://arenaskolor.se/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "boken.ch",
+    "final_url": "https://boken.ch",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-left"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress",
+          "header contains X-Pingback"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://boken.ch/wp-includes/js/jquery/jquery.min.js?ver=3.6.4"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "restwellstreetmedicalcentre.com.au",
+    "final_url": "https://restwellstreetmedicalcentre.com.au",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-FXN3LYRQ8Y",
+          "matched pattern: UA-9749031-2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: js/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "den-a-sha.co.jp",
+    "final_url": "https://den-a-sha.co.jp",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "365outsource.com",
+    "final_url": "https://www.365outsource.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-services",
+          "matched pattern: UA-8749295-4"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.365outsource.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "aida-cruises.at",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "lets.gr",
+    "final_url": "https://lets.gr",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "skywayrestaurants.net",
+    "final_url": "https://skywayrestaurants.net",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://skywayrestaurants.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "2020wealthadvisory.com",
+    "final_url": "https://2020wealthadvisory.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://2020wealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "hnafirm.com",
+    "final_url": "https://www.hnafirm.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-body"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "itsolutions24.pl",
+    "final_url": "https://itsolutions24.pl",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://itsolutions24.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "aaice.net",
+    "final_url": "https://aaice.net",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-host"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://aaice.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "ecolab.com",
+    "final_url": "https://www.ecolab.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-responsive"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.5.1.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "mehmetefendimacedonia.com",
+    "final_url": "https://mehmetefendimacedonia.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: UA-12058746-7"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: //ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "laplumedelisibilite.fr",
+    "final_url": "https://www.laplumedelisibilite.fr/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-top"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://code.jquery.com/jquery-1.7.1.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "2ldm.com",
+    "final_url": "https://2ldm.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-8472X4GSTK"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://2ldm.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      },
+      {
+        "technology": "Vue.js",
+        "category": "frontend framework",
+        "confidence": 0.85,
+        "proof": [
+          "HTML contains Vue-scoped attributes"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "westchesterpointechiro.com",
+    "final_url": "https://www.westchesterpointechiro.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-tennis",
+          "matched pattern: UA-128392001-1"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /nyk/gen3/webroot/js/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "cei-expertises.fr",
+    "final_url": "https://www.cei-expertises.fr/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-bottom"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.cei-expertises.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "seringa-safaris.com",
+    "final_url": "https://seringa-safaris.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-top",
+          "matched pattern: UA-126019429-15"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /media/jui/js/jquery.min.js?348b234eb139ed97e3fc954af481de98"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "1planettechnologies.weebly.com",
+    "final_url": "https://1planettechnologies.weebly.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-sidebar",
+          "matched pattern: UA-7870337-1"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "soziale-dreigliederung.de",
+    "final_url": "http://soziale-dreigliederung.de",
+    "status_code": 403,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "premierhomeremodeling.net",
+    "final_url": "https://premierhomeremodeling.net",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-icon"
+        ]
+      },
+      {
+        "technology": "Next.js",
+        "category": "frontend framework",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains __NEXT_DATA__",
+          "HTML references /_next/ assets"
+        ]
+      },
+      {
+        "technology": "React",
+        "category": "frontend framework",
+        "confidence": 0.86,
+        "proof": [
+          "HTML contains __NEXT_DATA__"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "bas-ingenieria.cl",
+    "final_url": "https://bas-ingenieria.cl",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-10"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "produkttheater.de",
+    "final_url": "http://produkttheater.de",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: UA-132401232-2"
+        ]
+      },
+      {
+        "technology": "Vue.js",
+        "category": "frontend framework",
+        "confidence": 0.85,
+        "proof": [
+          "HTML contains Vue-scoped attributes"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "unnames.com",
+    "final_url": "https://unnames.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Shopify",
+        "category": "ecommerce",
+        "confidence": 0.98,
+        "proof": [
+          "script/link URL contains cdn.shopify.com",
+          "inline/page source contains Shopify.theme",
+          "cookie _shopify_y exists",
+          "cookie _shopify_s exists",
+          "page references myshopify.com"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-recaptcha"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://code.jquery.com/jquery-3.6.0.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "handycars.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "antikebau.de",
+    "final_url": "https://antikebau.de/",
+    "status_code": 500,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "3strandschurch.org",
+    "final_url": "https://3strandschurch.org/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://3strandschurch.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "alabamabuildingcontractor.com",
+    "final_url": "https://www.alabamabuildingcontractor.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-1x4uaVc"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.alabamabuildingcontractor.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "resourceservicesolutions.com",
+    "final_url": "https://resourceservicesolutions.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-left"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: //code.jquery.com/jquery-3.3.1.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "skywardspeech.com.au",
+    "final_url": "https://skywardspeech.com.au",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "sevecoitalia.com",
+    "final_url": "https://www.sevecoitalia.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-BokwzVL7UWctmJy"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: script/jquery-2.1.1.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "nielsbirk.dk",
+    "final_url": "https://www.karllund.dk/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-NB7F161PT2",
+          "matched pattern: UA-7644220-1"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "branson-connection.com",
+    "final_url": "https://branson-connection.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "phucankhanggroup.com",
+    "final_url": "http://phucankhanggroup.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-sys"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "roccofortehotels.cn",
+    "final_url": "https://www.roccofortehotels.cn/",
+    "status_code": 403,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "everhartsoutdoor.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.everhartsoutdoor.com'. (_ssl.c:1007)",
+    "technologies": []
+  },
+  {
+    "domain": "europeaninns.com",
+    "final_url": "https://europeaninns.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "massageforworldpeace.com",
+    "final_url": "https://www.massageforworldpeace.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-container"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "cultivateventures.co.nz",
+    "final_url": "https://www.cultivateventures.co.nz/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-updates"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "amaronbattery.in",
+    "final_url": "http://amaronbattery.in",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: js/jquery-1.2.6.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "radxmobile.com",
+    "final_url": "https://www.radxmobile.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-semver"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "2-com.net",
+    "final_url": "https://2-com.net",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-bundle"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "3bsexcavating.com",
+    "final_url": "https://3bsexcavating.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://3bsexcavating.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "weissbauchpapageien.de",
+    "final_url": "https://p2-1.afp24.net/true1.php?id=weis44j4dh3o49xk",
+    "status_code": 404,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "959marine.com",
+    "final_url": "https://www.959marine.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-3285",
+          "matched pattern: UA-7870337-1"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://cdn11.editmysite.com/js/jquery-1.8.3.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "hansis-knusperhendl-foodtruck.eatbu.com",
+    "final_url": "https://hansis-knusperhendl-foodtruck.eatbu.com/?lang=en",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-left"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "broganlmt.com",
+    "final_url": "https://www.broganlmt.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "juanmunozhomesmart.com",
+    "final_url": "https://www.juanmunozhomesmart.com/",
+    "status_code": 403,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "buchhaltungsservice-koenig.de",
+    "final_url": "https://buchhaltungsservice-koenig.de",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-tab"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://buchhaltungsservice-koenig.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "solvos.nl",
+    "final_url": "https://www.solvos.nl/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-software"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.solvos.nl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "261welfarefund.com",
+    "final_url": "https://www.261welfarefund.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "header contains X-Pingback"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.261welfarefund.com/wp-content/themes/forwardtrends-custom-theme-simple/prettyphoto/js/jquery.prettyPhoto.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "costa-coffee.be",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "startravelcompany.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "disinfestazioniepiscine.it",
+    "final_url": "https://www.disinfestazioniepiscine.it/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: google-analytics.com/analytics.js",
+          "matched pattern: g-font",
+          "matched pattern: UA-61460489-1"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.disinfestazioniepiscine.it/wp-includes/js/jquery/jquery.js?ver=1.12.4"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "lscms.org",
+    "final_url": "https://lscms.org",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://lscms.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "3dwealthadvisory.com",
+    "final_url": "https://3dwealthadvisory.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-1x4uaVc"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://3dwealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "jackwills.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "nevsproductions.com",
+    "final_url": "https://www.nevsproductions.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-X9G9MTEK1L"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "kande-hoikuen.ed.jp",
+    "final_url": "https://kande-hoikuen.ed.jp",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "orifoodsco.com",
+    "final_url": "https://www.orifoodsco.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-updates"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "deerfieldbeachautomall.com",
+    "final_url": "https://www.deerfieldbeachautomall.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-bottom"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /static/dist/v9/media/js/ddc/v1/dist/ddc.jquery.async.each.min.js?r=1774550477000"
+        ]
+      },
+      {
+        "technology": "React",
+        "category": "frontend framework",
+        "confidence": 0.86,
+        "proof": [
+          "HTML contains data-reactroot"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "insieme.stanford.edu",
+    "final_url": "https://insieme.stanford.edu",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-986R8TE788"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "layer7innovations.ca",
+    "final_url": "https://layer7innovations.ca",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-body"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "makpharma-eg.com",
+    "final_url": "https://makpharma-eg.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-top"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "ejc-courtage-assurances.fr",
+    "final_url": "https://ejc-courtage-assurances.fr",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-blue"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: js/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "ferrateoxidant.com",
+    "final_url": "https://ferrateoxidant.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-cart"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://ferrateoxidant.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "oakwell.vet",
+    "final_url": "https://oakwell.vet",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://oakwell.vet/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "mysterion.hr",
+    "final_url": "https://mysterion.hr",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-table",
+          "matched pattern: UA-78921934-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://mysterion.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "howellmotors.com",
+    "final_url": "https://www.howellmotors.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-bottom"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /static/dist/v9/media/js/ddc/v1/dist/ddc.jquery.async.each.min.js?r=1774550477000"
+        ]
+      },
+      {
+        "technology": "React",
+        "category": "frontend framework",
+        "confidence": 0.86,
+        "proof": [
+          "HTML contains data-reactroot"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "lorenz-baumarkt.de",
+    "final_url": "https://www.lorenz-baumarkt.de/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-spiel",
+          "matched pattern: UA-72051736-1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "eclairage-solaire-occitanie.com",
+    "final_url": "https://www.eclairage-solaire-occitanie.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-bottom"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "cmc01village.com",
+    "final_url": "https://cmc01village.com",
+    "status_code": 404,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "maiquotes.net",
+    "final_url": null,
+    "status_code": null,
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'maiquotes.net'. (_ssl.c:1007)",
+    "technologies": []
+  },
+  {
+    "domain": "cmresolutions.com",
+    "final_url": "http://cmresolutions.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-alt"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "wglchurch.com",
+    "final_url": "https://wglchurch.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "nwmotorinn.com",
+    "final_url": "https://nwmotorinn.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-cdn"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://g.lazcdn.com/g/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc/5.2.38/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc/5.2.38/assets/links-bar/index.js,lzdmod/common-info/5.0.30/index.js,lzdmod/site-nav-pc/5.2.38/assets/reqwest/index.js,lzdmod/site-nav-pc/5.2.38/assets/common/popper/index.js,lzdmod/site-nav-pc/5.2.38/assets/cart/index.js,lzdmod/site-nav-pc/5.2.38/assets/download-app/index.js,lzdmod/site-nav-pc/5.2.38/i18n.js,lzdmod/site-nav-pc/5.2.38/assets/track-order/index.js,lzdmod/site-nav-pc/5.2.38/assets/switch-lang/index.js,lzdmod/site-nav-pc/5.2.38/assets/user-info/index.js,lzdmod/site-nav-pc/5.2.38/assets/affiliate/index.js,lzdmod/site-nav-pc/5.2.38/assets/logo-bar/index.js,lzdmod/site-nav-pc/5.2.38/assets/search-box/index.js,lzdmod/site-nav-pc/5.2.38/assets/liveup/index.js,lzdmod/site-menu-pc/5.0.45/pc/index.js,lzdmod/site-menu-nav-pc/5.0.73/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/reqwest/index.js"
+        ]
+      },
+      {
+        "technology": "React",
+        "category": "frontend framework",
+        "confidence": 0.86,
+        "proof": [
+          "HTML contains data-reactroot"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "dorpsbelangen.nu",
+    "final_url": "https://www.dorpsbelangen.nu/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.dorpsbelangen.nu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "littlerockafamily.de",
+    "final_url": null,
+    "status_code": null,
+    "error": "[Errno -3] Temporary failure in name resolution",
+    "technologies": []
+  },
+  {
+    "domain": "evelynanders.com",
+    "final_url": "https://evelynanders.com",
+    "status_code": 403,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "domekvefaru.com",
+    "final_url": "https://www.domekvefaru.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-d"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "sdmdjentertainment.com",
+    "final_url": "https://sdmdjentertainment.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-top"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "ideenhunger.com",
+    "final_url": "https://www.ideenhunger.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-Agentur"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "Hotjar",
+        "category": "analytics",
+        "confidence": 0.94,
+        "proof": [
+          "HTML references static.hotjar.com"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66795ad5f3983f33c484692b",
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "jenniferbacksteininteriors.com",
+    "final_url": "https://www.jenniferbacksteininteriors.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-updates"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "elcolegiocongresosyrestaurante.com",
+    "final_url": "https://elcolegiocongresosyrestaurante.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-color"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "northshoremacnut.com",
+    "final_url": "https://www.northshoremacnut.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "powercleaning.services",
+    "final_url": "https://powercleaning.services",
+    "status_code": 403,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-top"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "stoperbis.pl",
+    "final_url": "https://stoperbis.pl",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: google-analytics.com/analytics.js",
+          "matched pattern: g-bottom",
+          "matched pattern: UA-4551669-1"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: javascript/jquery.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "verticalcommunitychurch.com",
+    "final_url": "http://verticalcommunitychurch.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "gitesducharmois.fr",
+    "final_url": "https://www.gitesducharmois.fr/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "allegrocreditbeta.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "",
+    "technologies": []
+  },
+  {
+    "domain": "hoffmaninstitute.co.uk",
+    "final_url": "https://hoffmaninstitute.co.uk",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce",
+          "HTML contains wc-ajax"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://hoffmaninstitute.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "a3sec.com",
+    "final_url": "https://a3sec.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-left"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "Hotjar",
+        "category": "analytics",
+        "confidence": 0.94,
+        "proof": [
+          "HTML references static.hotjar.com"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "concrete-fitness.edan.io",
+    "final_url": "https://concrete-fitness.edan.io",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-right"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: //edan.io/vendor/jquery/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "nicholsonchiro.com",
+    "final_url": "https://nicholsonchiro.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?ver=1.12.4"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "la-residenza-del-principe-rome-it.booked.net",
+    "final_url": "https://la-residenza-del-principe-rome-it.booked.net",
+    "status_code": 404,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "jonesbuickgmc.com",
+    "final_url": null,
+    "status_code": null,
+    "error": "[Errno -2] Name or service not known",
+    "technologies": []
+  },
+  {
+    "domain": "xn--jobvrkstedet-9cb.nu",
+    "final_url": "https://xn--jobvrkstedet-9cb.nu",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-3"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://xn--jobvrkstedet-9cb.nu/wp-includes/js/jquery/jquery.js?ver=1.12.4"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "appelpsychotherapy.com",
+    "final_url": "https://www.appelpsychotherapy.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "brucebournesold.com",
+    "final_url": "https://www.brucebournesold.com/",
+    "status_code": 403,
+    "error": null,
+    "technologies": []
+  },
+  {
+    "domain": "pcb-cpb.com",
+    "final_url": "https://www.pcb-cpb.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "chiantifiorentino.it",
+    "final_url": "https://www.chiantifiorentino.it/web/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-11"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /web/components/jquery-3.7/jquery-3.7.0.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "11thhourracing.org",
+    "final_url": "https://11thhourracing.org",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://11thhourracing.org/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "miratrade.com.tr",
+    "final_url": "https://miratrade.com.tr",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://amofta.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "freo.com.au",
+    "final_url": "https://freo.com.au",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: js/jquery.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "fluxar.com.ar",
+    "final_url": "https://www.fluxar.com.ar/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: G-56Q29FK9B1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.fluxar.com.ar/wp-includes/js/jquery/jquery.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "redpants.jp",
+    "final_url": "https://www.redpants.jp/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-updates"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "bata.edu.hu",
+    "final_url": "https://bata.edu.hu",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://bata.edu.hu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "3-energie-klaas.de",
+    "final_url": "https://3-energie-klaas.de",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-page"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "labdemo.com",
+    "final_url": "https://labdemo.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://labdemo.com/wp/wp-includes/js/jquery/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "1ststopsupply.com",
+    "final_url": "https://1ststopsupply.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://1ststopsupply.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "celiabedilia.com",
+    "final_url": "https://www.expiredwixdomain.com/?redirectedFor=celiabedilia.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "davidloeppke.com",
+    "final_url": "https://davidloeppke.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-properties",
+          "matched pattern: UA-43807950-1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "wrinkle-pei.cz",
+    "final_url": "http://wrinkle-pei.cz",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-no"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "koniczynka.info.pl",
+    "final_url": "https://www.koniczynka.info.pl/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-left"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "marketing",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: connect.facebook.net/en_US/fbevents.js",
+          "matched pattern: fbq("
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce",
+          "HTML contains wc-ajax"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.koniczynka.info.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "footasylum.com",
+    "final_url": "https://www.footasylum.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-image"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /javascript/jQuery/jquery-3.5.1.min.js?v=270"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "2agateway.com",
+    "final_url": "https://2agateway.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "ledestjernenstu.dk",
+    "final_url": "https://ledestjernenstu.dk",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://ledestjernenstu.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "1stlocksheathscouts.org.uk",
+    "final_url": "https://1stlocksheathscouts.org.uk",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-beavers"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://1stlocksheathscouts.org.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "tamcconstruction.net",
+    "final_url": "https://tamcconstruction.net",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://tamcconstruction.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "abbikadabbisbakingco.com",
+    "final_url": "https://www.abbikadabbisbakingco.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-view"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "herbalwise.ie",
+    "final_url": "https://herbalwise.ie",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Shopify",
+        "category": "ecommerce",
+        "confidence": 0.98,
+        "proof": [
+          "script/link URL contains cdn.shopify.com",
+          "inline/page source contains Shopify.theme",
+          "cookie _shopify_y exists",
+          "cookie _shopify_s exists",
+          "page references myshopify.com"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-recaptcha"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "deepseass.com",
+    "final_url": "https://www.deepseass.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.deepseass.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "aardvarkelectriccorp.com",
+    "final_url": "http://aardvarkelectriccorp.com",
+    "status_code": 409,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-tight"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "needaphysio.com",
+    "final_url": "https://www.needaphysio.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-calculated"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "thomasrosenbaum.com",
+    "final_url": "https://www.thomasrosenbaum.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-updates"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "100wwcstlw.org",
+    "final_url": "https://100wwcstlw.org",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-202507311507277730"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "shapirolawfirm.com",
+    "final_url": "http://shapirolawfirm.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-300x300"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: http://shapirolawfirm.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "joseph-herber.business.site",
+    "final_url": "https://joseph-herber.business.site",
+    "status_code": 404,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-right"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "arol.cl",
+    "final_url": "https://arol.cl",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-linux"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "sindacatobadanti.it",
+    "final_url": "https://www.sindacatobadanti.it/",
+    "status_code": 503,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-img"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://www.sindacatobadanti.it/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "1stclairavewest.com",
+    "final_url": "http://1stclairavewest.com",
+    "status_code": 409,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-tight"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "lighthouseprc.org",
+    "final_url": "https://lighthouseprc.org",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "analytics",
+        "confidence": 0.99,
+        "proof": [
+          "HTML references googletagmanager.com/gtm.js"
+        ]
+      },
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-effect",
+          "matched pattern: UA-100992585-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "inline/page source contains jQuery symbols"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "5rcircleprocess.weebly.com",
+    "final_url": "https://5rcircleprocess.weebly.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-sidebar",
+          "matched pattern: UA-7870337-1"
+        ]
+      },
+      {
+        "technology": "Cloudflare",
+        "category": "cdn/security",
+        "confidence": 0.96,
+        "proof": [
+          "server header is Cloudflare",
+          "cf-ray header exists",
+          "cookie __cf_bm exists"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "unitedveterinaryservice.com",
+    "final_url": "https://unitedveterinaryservice.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress",
+          "header contains X-Pingback"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://unitedveterinaryservice.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "construccionesyatecnicas.com",
+    "final_url": "http://construccionesyatecnicas.com",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: /lib/sys/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "joburgheritage.org.za",
+    "final_url": "https://joburgheritage.org.za",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: googletagmanager.com/gtag/js",
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "ecommerce",
+        "confidence": 0.95,
+        "proof": [
+          "HTML contains woocommerce",
+          "HTML contains wc-ajax"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "javascript library",
+        "confidence": 0.9,
+        "proof": [
+          "script src: https://joburgheritage.org.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "bfnelson.it",
+    "final_url": "https://bfnelson.it",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-auto"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "cms",
+        "confidence": 0.97,
+        "proof": [
+          "HTML contains wp-content/wp-includes",
+          "meta generator mentions WordPress"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "rivithead.com",
+    "final_url": "https://www.rivithead.com/",
+    "status_code": 200,
+    "error": null,
+    "technologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "analytics",
+        "confidence": 0.97,
+        "proof": [
+          "matched pattern: g-v1"
+        ]
+      }
+    ]
+  }
+]
